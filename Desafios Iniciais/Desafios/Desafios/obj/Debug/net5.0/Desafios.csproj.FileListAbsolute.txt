@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\bin\Debug\net5.0\Desafios.exe
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\bin\Debug\net5.0\Desafios.deps.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\bin\Debug\net5.0\Desafios.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\bin\Debug\net5.0\Desafios.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\bin\Debug\net5.0\Desafios.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\refint\Desafios.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\Desafios.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Iniciais\Desafios\Desafios\obj\Debug\net5.0\ref\Desafios.dll

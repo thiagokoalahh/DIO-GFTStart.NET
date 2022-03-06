@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\bin\Debug\net5.0\FluxoExecucao.exe
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\bin\Debug\net5.0\FluxoExecucao.deps.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\bin\Debug\net5.0\FluxoExecucao.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\bin\Debug\net5.0\FluxoExecucao.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\bin\Debug\net5.0\FluxoExecucao.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\bin\Debug\net5.0\FluxoExecucao.pdb
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\refint\FluxoExecucao.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.pdb
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\FluxoExecucao.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\FluxoExecucao\obj\Debug\net5.0\ref\FluxoExecucao.dll

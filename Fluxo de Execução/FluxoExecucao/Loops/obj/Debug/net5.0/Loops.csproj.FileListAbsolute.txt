@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\bin\Debug\net5.0\Loops.exe
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\bin\Debug\net5.0\Loops.deps.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\bin\Debug\net5.0\Loops.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\bin\Debug\net5.0\Loops.pdb
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\refint\Loops.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.pdb
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Loops\obj\Debug\net5.0\ref\Loops.dll

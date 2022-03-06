@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\bin\Debug\net5.0\Condicionais.exe
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\bin\Debug\net5.0\Condicionais.deps.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\bin\Debug\net5.0\Condicionais.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\bin\Debug\net5.0\Condicionais.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\bin\Debug\net5.0\Condicionais.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\bin\Debug\net5.0\Condicionais.pdb
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\refint\Condicionais.dll
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.pdb
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\Condicionais.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Fluxo de Execução\FluxoExecucao\Condicionais\obj\Debug\net5.0\ref\Condicionais.dll

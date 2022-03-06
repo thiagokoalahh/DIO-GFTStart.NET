@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FluxoExecucao/1.0.0": {
+        "runtime": {
+          "FluxoExecucao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluxoExecucao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
