@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\bin\Debug\net5.0\String_Reader.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\bin\Debug\net5.0\String_Reader.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\bin\Debug\net5.0\String_Reader.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\bin\Debug\net5.0\String_Reader.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\bin\Debug\net5.0\String_Reader.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\bin\Debug\net5.0\String_Reader.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\refint\String_Reader.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\String_Reader.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Reader\obj\Debug\net5.0\ref\String_Reader.dll

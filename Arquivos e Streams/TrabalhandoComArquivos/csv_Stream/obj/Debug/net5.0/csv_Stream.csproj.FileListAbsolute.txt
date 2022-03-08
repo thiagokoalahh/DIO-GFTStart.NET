@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\bin\Debug\net5.0\csv_Stream.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\bin\Debug\net5.0\csv_Stream.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\bin\Debug\net5.0\csv_Stream.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\bin\Debug\net5.0\csv_Stream.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\bin\Debug\net5.0\csv_Stream.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\bin\Debug\net5.0\csv_Stream.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\refint\csv_Stream.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\csv_Stream.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Stream\obj\Debug\net5.0\ref\csv_Stream.dll

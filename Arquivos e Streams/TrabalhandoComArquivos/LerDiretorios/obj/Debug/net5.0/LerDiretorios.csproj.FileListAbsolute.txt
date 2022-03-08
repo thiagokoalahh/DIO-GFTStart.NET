@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\bin\Debug\net5.0\LerDiretorios.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\bin\Debug\net5.0\LerDiretorios.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\bin\Debug\net5.0\LerDiretorios.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\bin\Debug\net5.0\LerDiretorios.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\refint\LerDiretorios.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\LerDiretorios.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\LerDiretorios\obj\Debug\net5.0\ref\LerDiretorios.dll

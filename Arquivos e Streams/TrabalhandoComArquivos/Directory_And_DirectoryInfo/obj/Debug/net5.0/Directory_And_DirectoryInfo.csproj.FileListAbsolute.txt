@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\bin\Debug\net5.0\Directory_And_DirectoryInfo.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\bin\Debug\net5.0\Directory_And_DirectoryInfo.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\bin\Debug\net5.0\Directory_And_DirectoryInfo.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\bin\Debug\net5.0\Directory_And_DirectoryInfo.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\bin\Debug\net5.0\Directory_And_DirectoryInfo.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\bin\Debug\net5.0\Directory_And_DirectoryInfo.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\refint\Directory_And_DirectoryInfo.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\Directory_And_DirectoryInfo.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\Directory_And_DirectoryInfo\obj\Debug\net5.0\ref\Directory_And_DirectoryInfo.dll

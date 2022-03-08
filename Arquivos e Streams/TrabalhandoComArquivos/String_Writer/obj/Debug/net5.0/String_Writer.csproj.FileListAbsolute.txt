@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\bin\Debug\net5.0\String_Writer.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\bin\Debug\net5.0\String_Writer.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\bin\Debug\net5.0\String_Writer.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\bin\Debug\net5.0\String_Writer.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\bin\Debug\net5.0\String_Writer.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\bin\Debug\net5.0\String_Writer.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\refint\String_Writer.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\String_Writer.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\String_Writer\obj\Debug\net5.0\ref\String_Writer.dll

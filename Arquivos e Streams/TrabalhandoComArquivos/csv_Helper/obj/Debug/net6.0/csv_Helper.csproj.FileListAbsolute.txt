@@ -1,0 +1,17 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\bin\Debug\net6.0\csv_Helper.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\bin\Debug\net6.0\csv_Helper.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\bin\Debug\net6.0\csv_Helper.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\bin\Debug\net6.0\csv_Helper.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\bin\Debug\net6.0\csv_Helper.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\bin\Debug\net6.0\CsvHelper.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.csproj.CopyComplete
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\refint\csv_Helper.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\csv_Helper.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\csv_Helper\obj\Debug\net6.0\ref\csv_Helper.dll

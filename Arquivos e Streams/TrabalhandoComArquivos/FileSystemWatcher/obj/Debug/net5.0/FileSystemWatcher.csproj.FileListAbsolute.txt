@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\refint\FileSystemWatcher.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\FileSystemWatcher\obj\Debug\net5.0\ref\FileSystemWatcher.dll

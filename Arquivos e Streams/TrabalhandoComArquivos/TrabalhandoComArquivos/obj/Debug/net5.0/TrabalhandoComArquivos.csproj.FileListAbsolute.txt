@@ -1,0 +1,16 @@
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net5.0\TrabalhandoComArquivos.exe
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net5.0\TrabalhandoComArquivos.deps.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net5.0\TrabalhandoComArquivos.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net5.0\TrabalhandoComArquivos.runtimeconfig.dev.json
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net5.0\TrabalhandoComArquivos.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net5.0\TrabalhandoComArquivos.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\refint\TrabalhandoComArquivos.dll
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.pdb
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\TrabalhandoComArquivos.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Arquivos e Streams\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net5.0\ref\TrabalhandoComArquivos.dll

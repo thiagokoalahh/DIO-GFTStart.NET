@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YscYufcg8uh1fZLnIQivlTjXqnMWclJR5NC8jfzU0ev2tO+NchVTOwJ9J5pI/p+X/g7X4Mz9tfZ+R+h+dQTN1g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\DIO\\GFT-Start-.NET\\Arquivos e Streams\\TrabalhandoComArquivos\\csv_Helper\\csv_Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
