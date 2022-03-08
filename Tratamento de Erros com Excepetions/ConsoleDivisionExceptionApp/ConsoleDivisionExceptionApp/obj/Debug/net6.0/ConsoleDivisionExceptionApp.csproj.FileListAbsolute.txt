@@ -1,0 +1,15 @@
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.exe
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.deps.json
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.dll
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\bin\Debug\net6.0\ConsoleDivisionExceptionApp.pdb
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.dll
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\refint\ConsoleDivisionExceptionApp.dll
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.pdb
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ConsoleDivisionExceptionApp.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Tratamento de Erros com Excepetions\ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp\obj\Debug\net6.0\ref\ConsoleDivisionExceptionApp.dll

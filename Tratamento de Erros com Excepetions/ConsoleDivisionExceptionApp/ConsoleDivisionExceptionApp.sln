@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDivisionExceptionApp", "ConsoleDivisionExceptionApp\ConsoleDivisionExceptionApp.csproj", "{712DA0A3-C7AC-4655-BE8B-E77796E765FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDIvisionExceptionUnitTests", "ConsoleDIvisionExceptionUnitTests\ConsoleDIvisionExceptionUnitTests.csproj", "{EC370F0D-D854-4E21-AB85-CF87E49075DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712DA0A3-C7AC-4655-BE8B-E77796E765FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712DA0A3-C7AC-4655-BE8B-E77796E765FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712DA0A3-C7AC-4655-BE8B-E77796E765FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712DA0A3-C7AC-4655-BE8B-E77796E765FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC370F0D-D854-4E21-AB85-CF87E49075DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC370F0D-D854-4E21-AB85-CF87E49075DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC370F0D-D854-4E21-AB85-CF87E49075DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC370F0D-D854-4E21-AB85-CF87E49075DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA310BB0-E383-4CE9-8B74-190BD0247AAF}
+	EndGlobalSection
+EndGlobal
