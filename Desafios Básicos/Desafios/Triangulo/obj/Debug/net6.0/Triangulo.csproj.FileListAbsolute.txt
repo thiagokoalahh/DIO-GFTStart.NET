@@ -1,0 +1,15 @@
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\bin\Debug\net6.0\Triangulo.exe
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\bin\Debug\net6.0\Triangulo.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\refint\Triangulo.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll

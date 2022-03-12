@@ -1,0 +1,15 @@
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\bin\Debug\net6.0\Cedulas.exe
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\bin\Debug\net6.0\Cedulas.deps.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\bin\Debug\net6.0\Cedulas.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\bin\Debug\net6.0\Cedulas.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\bin\Debug\net6.0\Cedulas.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\refint\Cedulas.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\Cedulas.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\Desafios\obj\Debug\net6.0\ref\Cedulas.dll

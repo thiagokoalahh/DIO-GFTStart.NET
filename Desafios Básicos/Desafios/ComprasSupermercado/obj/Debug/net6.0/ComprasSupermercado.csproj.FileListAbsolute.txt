@@ -1,0 +1,15 @@
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\bin\Debug\net6.0\ComprasSupermercado.exe
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\bin\Debug\net6.0\ComprasSupermercado.deps.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\bin\Debug\net6.0\ComprasSupermercado.runtimeconfig.json
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\bin\Debug\net6.0\ComprasSupermercado.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\bin\Debug\net6.0\ComprasSupermercado.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.csproj.AssemblyReference.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.AssemblyInfoInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.AssemblyInfo.cs
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.csproj.CoreCompileInputs.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\refint\ComprasSupermercado.dll
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.pdb
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ComprasSupermercado.genruntimeconfig.cache
+D:\Code\DIO\GFT-Start-.NET\Desafios Básicos\Desafios\ComprasSupermercado\obj\Debug\net6.0\ref\ComprasSupermercado.dll
